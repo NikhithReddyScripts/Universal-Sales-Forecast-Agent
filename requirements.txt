@@ -4,6 +4,6 @@ prophet==1.1.5
 streamlit==1.34.0
 plotly==5.22.0
 python-dotenv==1.0.1
-phi==0.4.2
+phidata==0.4.2
 groq==0.3.0
 pytest==8.2.2
